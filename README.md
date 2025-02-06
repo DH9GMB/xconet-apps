@@ -6,7 +6,7 @@ Xconet - простой способ починить интернет.
 Верисия для mac arm64 (M1, M2, etc.) 👉 [xconet-mac-v0.0.1](https://github.com/DH9GMB/xconet-apps/releases)
 
 ## Windows x64
-Верисия для mac windowns x86-64 👉 [xconet-win64-v0.0.1](https://github.com/DH9GMB/xconet-apps/releases)
+Верисия для windowns x86-64 👉 [xconet-win64-v0.0.1](https://github.com/DH9GMB/xconet-apps/releases)
 
 ## Важно  
 В настояещий момент Xconet находится в стадии активной разработки. Стабильность работы не гарантируется. Пока что.  
